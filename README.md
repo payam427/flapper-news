@@ -1,0 +1,4 @@
+flapper-news
+============
+
+MEAN Project
